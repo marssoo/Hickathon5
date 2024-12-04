@@ -22,7 +22,7 @@ Teams were assigned at random and went from 5 to 7 members. Ours went as follow,
 
 The task was multi-class classification on a dataset elaborated by the Hi!Paris team from several public datasets. The subject was predicting groundwater levels during selected time periods. 
 
-We reached our performance mostly through a thorough pre-processing effort. From there we evaluated a fex models, leading us to XGBoost before focusing on finding the right parameters. Our 2nd-place score was achieved by making a "vote" between our 5 best csv files, that were produced by models ranging from 5k  to 15k estimators and with depths of 10 to 13.
+We reached our performance mostly through a thorough pre-processing effort. From there we evaluated a few models, leading us to XGBoost before focusing on finding the right parameters. Our 2nd-place score was achieved by making a "vote" between our 5 best csv files, that were produced by models ranging from 5k  to 15k estimators and with depths of 10 to 13.
 
 The code in this repo was produced fast, hence its packaging. We did not take the time to make something pleasant to read nor optimized for obvious reasons.
 
